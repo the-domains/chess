@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 1
 color:
   saturation: 0.3584229
   brandStrength: 0.8064516
-  lightness: 0.2383513
+  rhythmicContrast: 0.7455197
   brandColors:
     - '#875E3A'
     - '#D1B487'
     - '#0E0E0B'
     - '#F0F0F1'
     - '#EAD7A3'
-  rhythmicContrast: 0.7455197
-layout_spectrum: 1
+  lightness: 0.2383513
+layout_spectrum: 0.6594982
 name: Chess

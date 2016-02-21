@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.9739522
+  lightness: 0.2383513
+  brandStrength: 0.8064516
+  brandColors:
+    - '#875E3A'
+    - '#D1B487'
+    - '#0E0E0B'
+    - '#F0F0F1'
+    - '#EAD7A3'
+  rhythmicContrast: 0.7455197
+typography_spectrum: 0.7580645
+name: Chess

@@ -7,12 +7,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T21:29:17.707Z'
-dateModified: '2016-02-21T21:24:34.516Z'
+datePublished: '2016-02-21T21:47:26.599Z'
+dateModified: '2016-02-21T21:47:22.407Z'
 author: []
 related: []
 app_links: []
-title: chess pieces - Google Search
+title: 'chess pieces '
 sourcePath: _posts/2016-02-21-chess-pieces-google-search.md
 published: true
 authors: []

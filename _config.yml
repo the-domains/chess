@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
 color:
   saturation: 0.3584229
   brandStrength: 0.8064516
@@ -22,5 +21,6 @@ color:
     - '#F0F0F1'
     - '#EAD7A3'
   lightness: 0.2383513
-layout_spectrum: 0.6594982
+typography_spectrum: 1
+layout_spectrum: 0
 name: Chess

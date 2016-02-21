@@ -1,7 +1,7 @@
 name: Chess
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 1
+typography_spectrum: 0.83629
 collections:
   - index:
       path: /

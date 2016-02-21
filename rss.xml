@@ -4,7 +4,7 @@
         <description><![CDATA[Chess]]></description>
         <link>https://thegrid.ai/chess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 22:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 22:28:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chess/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[History]]></title>
-            <description><![CDATA[<article><h1>History</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c44191b37676c76a393e156ca45cbb7ccf60f2d1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>History</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2ab480a12307416250eb5218060e0b6b4a7c28c.jpg"></article>]]></description>
             <link>http://www.chesshere.com/resources/chess_history.php</link>
             <guid isPermaLink="false">054d6ca4-b8be-42d1-8106-f0432c7e8c9b</guid>
             <pubDate>Sun, 21 Feb 2016 22:25:38 GMT</pubDate>
@@ -23,9 +23,9 @@
         <item>
             <title><![CDATA[Black]]></title>
             <description><![CDATA[<article><h1>Black</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef99225c7057cd60e01f2ec970b0761eebf1ba95.jpg"></article>]]></description>
-            <link>https://thegrid.ai/chess/black/index.html</link>
+            <link>urn:uuid:c63845e4-5981-46d0-82bb-fa85cf54fc67</link>
             <guid isPermaLink="false">d6c4258c-762a-485c-bb9f-468f63a7c476</guid>
-            <pubDate>Sun, 21 Feb 2016 16:16:14 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 22:27:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[White]]></title>

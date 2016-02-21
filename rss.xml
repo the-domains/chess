@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Chess]]></title>
         <description><![CDATA[Chess]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 16:15:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 16:15:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chess/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[White]]></title>
+            <description><![CDATA[<article><h1>White</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1fb6c8da9fe9f27259083a6cc17e2262ca08612.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chess/white/index.html</link>
+            <guid isPermaLink="false">ffbca5f4-2968-4dfa-9155-556af19c5fd4</guid>
+            <pubDate>Sun, 21 Feb 2016 16:15:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[chess pieces - Google Search]]></title>
-            <description><![CDATA[<article><h1>chess pieces - Google Search</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b7b884a3197668007e1e74e207d3388b389fff1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>chess pieces - Google Search</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/611da9a874357851239b90752ef7a2e2f1344eed.jpg"></article>]]></description>
             <link>https://www.google.com/search?q=chess+pieces&amp;client=safari&amp;hl=en-us&amp;prmd=isavn&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiI37S0nYnLAhVDVh4KHbfwDeAQ_AUIBygB&amp;biw=375&amp;bih=559#imgrc=YnU-4BrM3xuYQM%3A</link>
             <guid isPermaLink="false">34487477-6c27-46c7-92a2-5bd6673f83f3</guid>
             <pubDate>Sun, 21 Feb 2016 16:14:46 GMT</pubDate>

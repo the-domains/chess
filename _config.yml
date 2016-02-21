@@ -1,3 +1,7 @@
+name: Chess
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8691756
+  brandColors:
+    - '#d8edfe'
+    - '#7c9ecb'
+    - '#4a7b9c'
+    - '#008e96'
+    - '#1d5377'
   brandStrength: 0.8064516
   lightness: 0.7741935
-  brandColors:
-    - '#875E3A'
-    - '#D1B487'
-    - '#0E0E0B'
-    - '#F0F0F1'
-    - '#EAD7A3'
+  saturation: 0.8691756
   rhythmicContrast: 0.3602151
-typography_spectrum: 1
-layout_spectrum: 1
-name: Chess
+purpose: []

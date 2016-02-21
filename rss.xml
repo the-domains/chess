@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chess]]></title>
+        <description><![CDATA[Chess]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 16:15:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[chess pieces - Google Search]]></title>
+            <description><![CDATA[<article><h1>chess pieces - Google Search</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b7b884a3197668007e1e74e207d3388b389fff1.jpg"></article>]]></description>
+            <link>https://www.google.com/search?q=chess+pieces&amp;client=safari&amp;hl=en-us&amp;prmd=isavn&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiI37S0nYnLAhVDVh4KHbfwDeAQ_AUIBygB&amp;biw=375&amp;bih=559#imgrc=YnU-4BrM3xuYQM%3A</link>
+            <guid isPermaLink="false">34487477-6c27-46c7-92a2-5bd6673f83f3</guid>
+            <pubDate>Sun, 21 Feb 2016 16:14:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

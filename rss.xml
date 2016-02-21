@@ -4,7 +4,7 @@
         <description><![CDATA[Chess]]></description>
         <link>https://thegrid.ai/chess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 22:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 22:28:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chess/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Black]]></title>
-            <description><![CDATA[<article><h1>Black</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef99225c7057cd60e01f2ec970b0761eebf1ba95.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Black</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7eae38dcd4ceba0410b0c1007ce013745487f7b1.jpg"></article>]]></description>
             <link>urn:uuid:c63845e4-5981-46d0-82bb-fa85cf54fc67</link>
             <guid isPermaLink="false">d6c4258c-762a-485c-bb9f-468f63a7c476</guid>
             <pubDate>Sun, 21 Feb 2016 22:27:52 GMT</pubDate>
@@ -36,10 +36,10 @@
         </item>
         <item>
             <title><![CDATA[chess pieces ]]></title>
-            <description><![CDATA[<article><h1>chess pieces </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0da65e7961e28ba1bf3818e1052928aa22be7a88.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>chess pieces </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/560817e4a71e60a3b4f8da31db3f9e152e59eb8d.jpg"></article>]]></description>
             <link>https://www.google.com/search?q=chess+pieces&amp;client=safari&amp;hl=en-us&amp;prmd=isavn&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwiI37S0nYnLAhVDVh4KHbfwDeAQ_AUIBygB&amp;biw=375&amp;bih=559#imgrc=YnU-4BrM3xuYQM%3A</link>
             <guid isPermaLink="false">34487477-6c27-46c7-92a2-5bd6673f83f3</guid>
-            <pubDate>Sun, 21 Feb 2016 21:47:26 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 22:28:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,8 +4,15 @@
         <description><![CDATA[Chess]]></description>
         <link>https://thegrid.ai/chess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 16:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 16:31:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chess/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[India]]></title>
+            <description><![CDATA[<article><h1>India</h1><p>Many countries claim to have invented the chess game in some incipient form. The most commonly held belief is that chess originated in India, where it was called Chaturanga, which appears to have been invented in the 6th century AD.</p></article>]]></description>
+            <link>https://thegrid.ai/chess/india/index.html</link>
+            <guid isPermaLink="false">f447a4c2-3762-4c32-b46f-40708a4961e8</guid>
+            <pubDate>Sun, 21 Feb 2016 16:31:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[History]]></title>
             <description><![CDATA[<article><h1>History</h1><p>Many countries claim to have invented the chess game in some incipient form. The most commonly held belief is that chess originated in India, where it was called Chaturanga, which appears to have been invented in the 6th century AD.</p></article>]]></description>

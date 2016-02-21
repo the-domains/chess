@@ -10,7 +10,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.1433692
 color:
   saturation: 0.3584229
   brandStrength: 0.8064516
@@ -22,5 +21,6 @@ color:
     - '#F0F0F1'
     - '#EAD7A3'
   lightness: 0.2383513
-layout_spectrum: 0
+typography_spectrum: 0.1433692
+layout_spectrum: 1
 name: Chess

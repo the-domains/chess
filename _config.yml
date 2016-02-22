@@ -1,5 +1,7 @@
-favicon: null
-name: Chess
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,12 +31,10 @@ color:
     - '#a09b97'
   rhythmicContrast: 0.75
 typography_spectrum: 1
-layout_spectrum: 0.98499
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.234767
+favicon: null
+name: Chess

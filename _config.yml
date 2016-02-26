@@ -1,15 +1,7 @@
-layout_spectrum: 1
-favicon: null
 name: Chess
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.80764
+typography_spectrum: 0.3358396
 collections:
   - index:
       paginate: true
@@ -26,15 +18,23 @@ cta:
   domain: null
   bucket: null
   version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.6065163
-  lightness: 0.125
-  saturation: 0.125
-  rhythmicContrast: 0.75
   brandColors:
     - '#ffffff'
     - '#5a5349'
     - '#000000'
     - '#efc78a'
     - '#a09b97'
-typography_spectrum: 0.3358396
+  brandStrength: 0.6065163
+  lightness: 0.125
+  saturation: 0.125
+  rhythmicContrast: 0.75
+purpose: []
